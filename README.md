@@ -1,4 +1,4 @@
-![image](https://github.com/AliKhanat88/Audio-Transcription-and-GUI-Interface-using-AssembleAI-API/assets/69969910/9f9ce2ed-4e0e-41ef-8a4b-a0345890a02d)# Audio-Transcription-and-GUI-Interface-using-AssembleAI-API
+# Audio-Transcription-and-GUI-Interface-using-AssembleAI-API
 
 ![image](https://github.com/AliKhanat88/Audio-Transcription-and-GUI-Interface-using-AssembleAI-API/assets/69969910/59c613c8-96f7-42d3-af80-1564b278188f)
 
